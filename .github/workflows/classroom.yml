@@ -1,0 +1,6 @@
+assignment:
+  autograding:
+    tests:
+      - name: Pytest - Dog API Tests
+        run: pytest -v dog_api_tests.py
+        points: 20
